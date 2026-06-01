@@ -34,16 +34,7 @@ The SQL 50 Study Plan covers essential SQL concepts including:
 | ... | ... |
 | 50 | Department Top Three Salaries |
 
-## Folder Structure
 
-```text
-LeetCode-SQL-50/
-│
-├── 01_Recyclable_and_Low_Fat_Products.sql
-├── 02_Find_Customer_Referee.sql
-├── 03_Big_Countries.sql
-├── ...
-└── 50_Department_Top_Three_Salaries.sql
 ```
 
 ## Topics Covered
