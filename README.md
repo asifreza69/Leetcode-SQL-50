@@ -55,17 +55,6 @@ The SQL 50 Study Plan covers essential SQL concepts including:
 - Window Functions
 - Ranking Functions
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/leetcode-sql-50.git
-```
-
-2. Open any `.sql` file.
-3. Run the query in your preferred SQL environment.
-4. Compare results with the corresponding LeetCode problem.
 
 ## Goal
 
